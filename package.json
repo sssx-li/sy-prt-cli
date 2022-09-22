@@ -1,0 +1,37 @@
+{
+  "name": "sy-prt-cli",
+  "version": "1.0.0",
+  "description": "集成前端开发模板sy-cli",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "sycli": "bin/cli.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiquanli-web/sy-prt-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiquanli-web/sy-prt-cli/issues"
+  },
+  "homepage": "https://github.com/zhiquanli-web/sy-prt-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "child_process": "^1.0.2",
+    "clear": "^0.1.0",
+    "commander": "^9.4.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^9.1.2",
+    "ora": "^6.1.2",
+    "update-notifier": "^6.0.2"
+  }
+}
