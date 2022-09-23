@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "sycli": "bin/cli.js"
+    "sytest": "bin/cli.js"
   },
   "directories": {
     "lib": "lib"
