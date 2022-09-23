@@ -2,10 +2,10 @@
   "name": "sy-prt-cli",
   "version": "1.0.0",
   "description": "集成前端开发模板sy-cli",
-  "main": "index.js",
+  "main": "/bin/cli.js",
   "type": "module",
   "bin": {
-    "sytest": "bin/cli.js"
+    "sy": "bin/cli.js"
   },
   "directories": {
     "lib": "lib"
@@ -17,8 +17,12 @@
     "type": "git",
     "url": "git+https://github.com/zhiquanli-web/sy-prt-cli.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "vue3",
+    "node"
+  ],
+  "author": "lizhiquan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zhiquanli-web/sy-prt-cli/issues"
