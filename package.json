@@ -1,6 +1,6 @@
 {
   "name": "sy-prt-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "集成项目开发模板",
   "main": "/bin/cli.js",
   "type": "module",
