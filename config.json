@@ -11,6 +11,14 @@
     "vue-antd-template": {
       "url": "https://gitee.com/qy-tingyun/vue-admin-template",
       "branch": "antd-template"
+    },
+    "vue-vite-template": {
+      "url": "https://gitee.com/qy-tingyun/vite-vue-admin.git",
+      "branch": "master"
+    },
+    "vue-vite-element-template": {
+      "url": "https://gitee.com/qy-tingyun/vite-vue-admin.git",
+      "branch": "element-template"
     }
   }
 }
