@@ -12,13 +12,17 @@
       "url": "https://gitee.com/qy-tingyun/vue-admin-template",
       "branch": "antd-template"
     },
-    "vue-vite-template": {
+    "vite-template": {
       "url": "https://gitee.com/qy-tingyun/vite-vue-admin.git",
       "branch": "master"
     },
-    "vue-vite-element-template": {
+    "vite-element-template": {
       "url": "https://gitee.com/qy-tingyun/vite-vue-admin.git",
       "branch": "element-template"
+    },
+    "vite-antd-template": {
+      "url": "https://gitee.com/qy-tingyun/vite-vue-admin.git",
+      "branch": "antd-template"
     }
   }
 }
