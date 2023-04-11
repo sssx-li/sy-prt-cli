@@ -1,28 +1,20 @@
 {
   "templates": {
     "vue-template": {
-      "url": "https://gitee.com/qy-tingyun/vue-admin-template",
+      "url": "https://gitee.com/qy-tingyun/vue-webpack-template",
       "branch": "master"
     },
     "vue-emement-template": {
-      "url": "https://gitee.com/qy-tingyun/vue-admin-template",
+      "url": "https://gitee.com/qy-tingyun/vue-webpack-template",
       "branch": "element-template"
     },
-    "vue-antd-template": {
-      "url": "https://gitee.com/qy-tingyun/vue-admin-template",
-      "branch": "antd-template"
-    },
     "vite-template": {
-      "url": "https://gitee.com/qy-tingyun/vite-vue-admin.git",
+      "url": "https://gitee.com/qy-tingyun/vue-vite-template",
       "branch": "master"
     },
     "vite-element-template": {
-      "url": "https://gitee.com/qy-tingyun/vite-vue-admin.git",
+      "url": "https://gitee.com/qy-tingyun/vue-vite-template",
       "branch": "element-template"
-    },
-    "vite-antd-template": {
-      "url": "https://gitee.com/qy-tingyun/vite-vue-admin.git",
-      "branch": "antd-template"
     }
   }
 }
