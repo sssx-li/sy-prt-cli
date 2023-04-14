@@ -2,19 +2,19 @@
   "templates": {
     "vue-template": {
       "url": "https://gitee.com/qy-tingyun/vue-webpack-template",
-      "branch": "master"
+      "branch": "master-scope"
     },
     "vue-emement-template": {
       "url": "https://gitee.com/qy-tingyun/vue-webpack-template",
-      "branch": "element-template"
+      "branch": "element-template-scope"
     },
     "vite-template": {
       "url": "https://gitee.com/qy-tingyun/vue-vite-template",
-      "branch": "master"
+      "branch": "master-scope"
     },
     "vite-element-template": {
       "url": "https://gitee.com/qy-tingyun/vue-vite-template",
-      "branch": "element-template"
+      "branch": "element-template-scope"
     }
   }
 }
