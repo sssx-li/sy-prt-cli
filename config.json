@@ -15,6 +15,10 @@
     "vite-element-template": {
       "url": "https://gitee.com/qy-tingyun/vue-vite-template",
       "branch": "element-template-scope"
+    },
+    "vite-antd-template": {
+      "url": "https://gitee.com/qy-tingyun/vue-vite-template",
+      "branch": "antd-template-scope"
     }
   }
 }
